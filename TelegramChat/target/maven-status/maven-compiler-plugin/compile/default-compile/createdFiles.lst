@@ -1,0 +1,10 @@
+com\miumg\edu\gt\TelegramChat\Service\BootTelegramChatService.class
+com\miumg\edu\gt\TelegramChat\Controller\TelegramChatController.class
+com\miumg\edu\gt\TelegramChat\Model\ChatSms.class
+com\miumg\edu\gt\TelegramChat\Service\OpAiService.class
+com\miumg\edu\gt\TelegramChat\Repository\ChatSmsRepository.class
+com\miumg\edu\gt\TelegramChat\Service\SmsService.class
+com\miumg\edu\gt\TelegramChat\Config\JpaConfig.class
+com\miumg\edu\gt\TelegramChat\Model\Request.class
+com\miumg\edu\gt\TelegramChat\TelegramChatApplication.class
+com\miumg\edu\gt\TelegramChat\Config\TelegramChatConfig.class
